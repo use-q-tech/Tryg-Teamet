@@ -16,15 +16,16 @@ Vigtig: Jeg vil ikke baggrundsfarven på sektionen.
 
 
 Opgave:
-Du skal analysere følgende sektion: Til samarbejdspartnere
+Du skal analysere følgende sektion: Hvem vi er
 Hvordan opleves denne sektion?
 Form, farver og figur?
-
-Ideen med cirkler er måske meget god?
+Billederne passer de til indholde?
 
 Vigtig:
 Jeg vil beholde baggrundsfarven
 Det er vigtig der rød tråd gennem sitet.
 Du må ikke ændre noget af teksen.
+Du skal beholde de flyde 2 som boks, men må gerne komme med input til design.
+Du skal give mig link til billederne, så jeg kan godekende dem.
 Du skal komme med dit input og kun implemnter efter bekræftelse fra mig
 Du absolut ikke ændret andet på sitet.
