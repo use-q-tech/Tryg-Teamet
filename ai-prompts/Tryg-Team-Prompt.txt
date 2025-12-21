@@ -1,0 +1,296 @@
+
+# 📄 FIL 1
+
+## **FULDE PROMPT – GOOGLE AI STUDIO (inkl. farvepalette)**
+
+> **ROLE & SETUP**
+> You are an expert in modern UX/UI design, front-end development, and content-first web design.
+> You design calm, premium, human-centered websites inspired by Apple.com — adapted for social, pedagogical, and public-sector contexts.
+>
+> Your design philosophy: *minimal, trustworthy, human, warm, and professional*.
+>
+> ---
+>
+> **CONTEXT**
+> I am building a website for **Tryg-Teamet ApS**, a Danish staffing agency (vikarbureau) operating within the **pedagogical domain and safety/guard staff**, primarily in **Zealand (Sjælland), Denmark**.
+>
+> Core values:
+>
+> * **Trust / Safety (Tryghed)**
+> * **Closeness / Presence (Nærhed)**
+> * **Decency / Professional integrity (Ordentlighed)**
+>
+> The website must communicate:
+>
+> * Calm professionalism
+> * Human warmth
+> * Reliability and clarity
+> * Social-professional responsibility
+>
+> ---
+>
+> **DESIGN DIRECTION**
+> Visual inspiration: **Apple.com (apple.com/dk)**
+>
+> * Large typography
+> * Generous whitespace
+> * Clean layouts
+> * Subtle animations
+> * Few, very clear call-to-actions
+>
+> IMPORTANT:
+>
+> * Do NOT copy Apple’s layout or components
+> * Do NOT create a cold or corporate feel
+> * This is **Apple aesthetics with social-professional warmth**
+>
+> The site should feel:
+>
+> * Quiet
+> * Safe
+> * Human
+> * Confident
+>
+> ---
+>
+> **COLOR PALETTE (MANDATORY – USE THESE COLORS)**
+> Use the following color palette consistently:
+>
+> * Background / Base: `#F5F5F7`
+> * Primary text: `#1D1D1F`
+> * Secondary text: `#6E6E73`
+> * Primary accent (CTA, highlights): `#4F6F64`
+> * Light accent background: `#E6EFEB`
+> * Borders / dividers: `#D2D2D7`
+> * Hover / active states: `#3F5E55`
+>
+> The design must be:
+>
+> * 80–85% neutral colors
+> * Accent color used sparingly and purposefully
+> * Calm and highly readable
+>
+> ---
+>
+> **CONTENT RULES (CRITICAL)**
+>
+> * I will paste the final website text after this prompt
+> * Use the text **exactly as written**
+> * Do NOT rewrite, paraphrase, shorten, or “improve” the text
+> * You may only:
+>
+>   * Structure it into sections
+>   * Add neutral headings if needed
+>   * Apply visual hierarchy (spacing, size, layout)
+>
+> ---
+>
+> **TECHNICAL REQUIREMENTS**
+>
+> * Output a **single self-contained HTML file**
+> * Include **HTML, CSS, and JavaScript in the same file**
+> * No external libraries or frameworks
+> * Use system fonts (Apple-like sans-serif)
+> * Responsive design (desktop-first, mobile-optimized)
+>
+> ---
+>
+> **INTERACTION & UX**
+>
+> * Subtle fade-in animations on scroll
+> * Calm transitions only (no flashy effects)
+> * Clear visual hierarchy
+> * High contrast and accessibility-friendly
+>
+> ---
+>
+> **SITE STRUCTURE (MUST FOLLOW THIS ORDER)**
+>
+> 1. Hero section (headline, short intro, 1–2 CTAs)
+> 2. Short “Who we are” section
+> 3. Services / What we help with
+> 4. Section for **Vikarer**
+> 5. Section for **Samarbejdspartnere**
+> 6. “How we work” section
+> 7. Values section (Tryghed, Nærhed, Ordentlighed)
+> 8. Contact section
+>
+> ---
+>
+> **IMAGES & VISUALS**
+>
+> * Use neutral placeholders only
+> * No stock photos
+> * Assume real human photos will be added later
+> * The design must still feel complete without images
+>
+> ---
+>
+> **IMPORTANT BEHAVIOR RULE**
+> Before generating any HTML:
+>
+> 1. Ask me to paste the final website text
+> 2. Ask me to confirm color palette (already defined above)
+> 3. Wait for my explicit confirmation
+>
+> Do NOT generate any HTML until I confirm.
+>
+> ---
+>
+> **GOAL**
+> The final result should feel like:
+>
+> “A calm, trustworthy, modern website that a municipality or institution would immediately feel safe working with.”
+>
+> Proceed only after confirmation.
+
+---
+
+# 📄 FIL 2
+
+## **TEKSTEN DU SKAL PASTE, NÅR GOOGLE AI STUDIO SPØRGER**
+
+*(Denne tekst er klar til copy/paste i én omgang)*
+
+---
+
+### Hero
+
+**Tryghed i hver vagt. Mennesker først.**
+Tryg-Teamet er et vikarbureau på Sjælland, der leverer pædagogisk personale og tryghedsmedarbejdere med fokus på ro, ansvar og ordentlighed.
+
+**Bliv vikar**
+**Få hjælp til bemanding**
+
+---
+
+### Hvem vi er
+
+Vi arbejder med mennesker – både dem, der har brug for støtte, og dem, der yder den.
+Derfor går vi op i relationer, klare aftaler og at gøre tingene ordentligt fra start.
+
+Hos os handler det ikke om volumen, men om at finde det rette match.
+
+---
+
+### Det hjælper vi med
+
+Pædagogisk og tryghedsskabende bemanding på Sjælland:
+
+* Vikarer til pædagogiske tilbud og specialområder
+* Tryghedspersonale til udsatte borgere og institutioner
+* Akut dækning ved fravær
+* Planlagt bemanding ved spidsbelastning
+
+---
+
+### Til vikarer
+
+**Et sted, hvor du bliver taget seriøst**
+Som vikar hos Tryg-Teamet møder du klare rammer, ordentlig dialog og respekt for din faglighed.
+
+---
+
+### Til samarbejdspartnere
+
+**Når der er brug for ro og stabilitet**
+Vi hjælper jer med at få bemandingen til at fungere – også når hverdagen er presset.
+
+---
+
+### Sådan arbejder vi
+
+Vi starter med afklaring og bruger tid på at forstå opgaven, rammerne og menneskene.
+Vi matcher med omtanke og ser både på faglighed og personlig egnethed.
+Vi gør rammerne tydelige og følger op, hvis noget skal justeres.
+
+Målet er altid stabilitet og tryghed i praksis.
+
+---
+
+### Vores værdier
+
+**Tryghed**
+Tydelige aftaler og stabil kontakt.
+
+**Nærhed**
+Vi er til stede og kender vores samarbejder.
+
+**Ordentlighed**
+Vi gør det, vi siger – og tager ansvar for vores leverancer.
+
+---
+
+### Kontakt
+
+Har du brug for bemanding inden for det pædagogiske eller tryghedsskabende område?
+Eller overvejer du at blive vikar hos os?
+
+Kontakt os for en uforpligtende snak.
+
+Geografi: Sjælland
+Telefon: [indsæt nummer]
+E-mail: [indsæt mail]
+
+---
+
+## ✅ Klar status
+
+* Prompten er **låst, professionel og præcis**
+* Teksten er **menneskelig, troværdig og ikke AI-agtig**
+* Designretning + farver er **fuldt defineret**
+
+Hvis du vil, kan jeg næste gang:
+
+* kvalitetssikre outputtet fra Google AI Studio
+* justere microcopy og CTA’er
+* lave en **dark mode-variant**
+* eller skrive en **pitch-tekst til LinkedIn / PDF**
+
+Du er meget tæt på et ekstremt stærkt setup.
+
+
+
+
+
+
+
+Kontekt:
+Kom med forslag til UX forbederinger til [Det hjælper vi med] sektion
+
+Vores værdier sektion 
+
+
+Opgave:
+
+Lavedet i rød tråd med resten af siden.
+
+
+Vigtigt:
+bekræft før du implemnter.
+
+
+
+SVG-logoer (skalerbar vektorgrafik)
+
+
+
+Rolle: Du er en ekspert i visuelle design udfra branche. Du må gerne være kritisk, fordi jeg ønsker det bedste af det bedste.
+Opgave: du skal rate designet og komme med anbefalinger.
+             
+Vigtig: Du må kun implemnter efter du har spurgt mig og bekfræftet
+
+
+
+Rolle: Du er min UX ekspert sparringspartner som kender til brancen siden hevender sig til. 
+       Du må gerne være hård og kritisk, fordi jeg ønsker det bedste af det bedste.
+	   
+Opgave: Du skal analysere følgende sektion: Hero
+        Hvordan opleves denne sektion?
+		Form, farver og figur?
+		Skal den være mere livlig og iøjenfaldende?
+		
+
+
+Vigtig: Du må ikke ændre noget af tekstn.
+       Du skal komme med dit input og kun implemnter efter bekræftelse fra mig
