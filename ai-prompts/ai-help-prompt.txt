@@ -13,3 +13,18 @@ Vigtig: Jeg vil ikke baggrundsfarven på sektionen.
         Du må ikke ændre noget af teksen.
         Du skal komme med dit input og kun implemnter efter bekræftelse fra mig
         Du absolut ikke ændret andet på sitet.
+
+
+Opgave:
+Du skal analysere følgende sektion: Til samarbejdspartnere
+Hvordan opleves denne sektion?
+Form, farver og figur?
+
+Ideen med cirkler er måske meget god?
+
+Vigtig:
+Jeg vil beholde baggrundsfarven
+Det er vigtig der rød tråd gennem sitet.
+Du må ikke ændre noget af teksen.
+Du skal komme med dit input og kun implemnter efter bekræftelse fra mig
+Du absolut ikke ændret andet på sitet.
