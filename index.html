@@ -336,55 +336,45 @@
         </div>
       </section>
 
-      <!-- 3. Values Section -->
-      <section id="vaerdier" class="py-32 bg-tryg-base fade-in-section relative overflow-hidden">
+   <!-- 3. Værdier -->
+      <section id="vaerdier" class="py-32 bg-tryg-base fade-in-section relative">
         <div class="max-w-[1200px] mx-auto px-8 sm:px-12 relative z-10">
-            <div class="text-center mb-16">
+            <div class="text-center mb-24">
                 <h2 class="text-base font-semibold text-tryg-secondary uppercase tracking-[0.2em] mb-4">Vores værdier</h2>
-                <h3 class="text-4xl sm:text-5xl font-semibold text-tryg-text">Fundamentet for alt vi gør.</h3>
-                <p class="text-xl text-tryg-secondary mt-6 max-w-2xl mx-auto">Vi tror på, at et fokuseret og menneskeligt mindset skaber den største forskel.</p>
+                <h3 class="text-4xl sm:text-5xl font-semibold text-tryg-text tracking-tight">Fundamentet for alt vi gør.</h3>
             </div>
-
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <!-- Card 1 -->
-                <div class="group bg-tryg-accent rounded-[2.5rem] p-10 sm:p-12 relative overflow-hidden shadow-green-glow hover:-translate-y-3 transition-all duration-500 h-full flex flex-col justify-between min-h-[400px]">
-                    <div class="absolute -right-10 -bottom-10 text-white opacity-10 transform transition-transform duration-700 group-hover:scale-110 group-hover:-rotate-12 pointer-events-none">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 24 24" fill="currentColor"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-y-16 md:gap-x-10">
+                <!-- Værdi 1 -->
+                <div class="spotlight-card-light group bg-white rounded-[3rem] shadow-soft hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 flex flex-col border border-tryg-border/30">
+                    <div class="relative h-64 w-full overflow-hidden rounded-t-[3rem]">
+                        <img src="https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover" alt="Tryghed">
+                        <div class="absolute inset-0 bg-gradient-to-t from-white via-transparent to-transparent opacity-80"></div>
                     </div>
-                    <div class="relative z-10">
-                        <div class="w-16 h-16 bg-white/10 rounded-2xl flex items-center justify-center text-white mb-8 backdrop-blur-sm border border-white/10">
-                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-                        </div>
-                        <h4 class="text-4xl font-bold text-white mb-6">Tryghed</h4>
-                        <p class="text-lg text-tryg-accentLight leading-relaxed">Tydelige aftaler og stabil kontakt. Vi skaber ro i kaos ved altid at være tilgængelige og ansvarlige.</p>
+                    <div class="pt-10 pb-12 px-10">
+                        <h4 class="text-3xl font-bold text-tryg-text mb-6">Tryghed</h4>
+                        <p class="text-lg text-tryg-secondary leading-relaxed">Tydelige aftaler og stabil kontakt. Vi skaber ro i kaos ved altid at være tilgængelige og ansvarlige.</p>
                     </div>
                 </div>
-
-                <!-- Card 2 -->
-                <div class="group bg-tryg-accent rounded-[2.5rem] p-10 sm:p-12 relative overflow-hidden shadow-green-glow hover:-translate-y-3 transition-all duration-500 h-full flex flex-col justify-between min-h-[400px]">
-                    <div class="absolute -right-10 -bottom-10 text-white opacity-10 transform transition-transform duration-700 group-hover:scale-110 group-hover:rotate-12 pointer-events-none">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
+                <!-- Værdi 2 -->
+                <div class="spotlight-card-light group bg-white rounded-[3rem] shadow-soft hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 flex flex-col md:translate-y-12 border border-tryg-border/30">
+                    <div class="relative h-64 w-full overflow-hidden rounded-t-[3rem]">
+                        <img src="https://images.unsplash.com/photo-1529390079861-591de354faf5?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover" alt="Nærhed">
+                        <div class="absolute inset-0 bg-gradient-to-t from-white via-transparent to-transparent opacity-80"></div>
                     </div>
-                    <div class="relative z-10">
-                        <div class="w-16 h-16 bg-white/10 rounded-2xl flex items-center justify-center text-white mb-8 backdrop-blur-sm border border-white/10">
-                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
-                        </div>
-                        <h4 class="text-4xl font-bold text-white mb-6">Nærhed</h4>
-                        <p class="text-lg text-tryg-accentLight leading-relaxed">Vi er til stede og kender vores samarbejdspartnere personligt. Det handler om relationer, ikke transaktioner.</p>
+                    <div class="pt-10 pb-12 px-10">
+                        <h4 class="text-3xl font-bold text-tryg-text mb-6">Nærhed</h4>
+                        <p class="text-lg text-tryg-secondary leading-relaxed">Vi er til stede og kender vores samarbejdspartnere personligt. Det handler om relationer.</p>
                     </div>
                 </div>
-
-                <!-- Card 3 -->
-                <div class="group bg-tryg-accent rounded-[2.5rem] p-10 sm:p-12 relative overflow-hidden shadow-green-glow hover:-translate-y-3 transition-all duration-500 h-full flex flex-col justify-between min-h-[400px]">
-                    <div class="absolute -right-10 -bottom-10 text-white opacity-10 transform transition-transform duration-700 group-hover:scale-110 group-hover:-rotate-6 pointer-events-none">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
+                <!-- Værdi 3 -->
+                <div class="spotlight-card-light group bg-white rounded-[3rem] shadow-soft hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 flex flex-col border border-tryg-border/30">
+                    <div class="relative h-64 w-full overflow-hidden rounded-t-[3rem]">
+                        <img src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=1974&auto=format&fit=crop" class="w-full h-full object-cover" alt="Ordentlighed">
+                        <div class="absolute inset-0 bg-gradient-to-t from-white via-transparent to-transparent opacity-80"></div>
                     </div>
-                    <div class="relative z-10">
-                        <div class="w-16 h-16 bg-white/10 rounded-2xl flex items-center justify-center text-white mb-8 backdrop-blur-sm border border-white/10">
-                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
-                        </div>
-                        <h4 class="text-4xl font-bold text-white mb-6">Ordentlighed</h4>
-                        <p class="text-lg text-tryg-accentLight leading-relaxed">Vi gør det, vi siger – og tager ansvar for vores leverancer. Kvalitet og ærlighed i hver eneste opgave.</p>
+                    <div class="pt-10 pb-12 px-10">
+                        <h4 class="text-3xl font-bold text-tryg-text mb-6">Ordentlighed</h4>
+                        <p class="text-lg text-tryg-secondary leading-relaxed">Vi gør det, vi siger – og tager ansvar. Kvalitet og ærlighed i hver eneste opgave.</p>
                     </div>
                 </div>
             </div>
