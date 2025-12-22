@@ -342,7 +342,6 @@
                   <!-- Badge 2 -->
                   <div class="absolute bottom-12 -right-4 bg-white/90 backdrop-blur-md text-tryg-accent p-5 rounded-2xl shadow-green-glow z-20 animate-float-medium max-w-[200px] border border-white/50">
                       <div class="flex flex-col gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mb-1 text-tryg-accent"><path d="M12 2v20"/><path d="M2 12h20"/><path d="m4.93 4.93 14.14 14.14"/><path d="m19.07 4.93-14.14 14.14"/></svg>
                         <p class="font-bold text-lg">Høj Faglighed</p>
                         <p class="text-xs text-tryg-secondary">Vi går ikke på kompromis</p>
                       </div>
@@ -727,7 +726,7 @@
                             </div>
                             <div>
                                 <label class="block text-xs font-bold text-tryg-secondary uppercase tracking-wider mb-2">Dit telefonnummer <span class="font-normal normal-case text-gray-400">(valgfrit)</span></label>
-                                <input type="tel" name="Telefon" placeholder="F.eks. 12 34 56 78" class="w-full bg-tryg-base border-transparent focus:border-tryg-accent focus:bg-white focus:ring-0 rounded-xl px-4 py-3 transition-colors text-tryg-text placeholder-gray-400">
+                                <input type="tel" name="Telefon" placeholder="F.eks. 12 34 56 78" maxlength="11" oninput="this.value = this.value.replace(/\D/g, '').substring(0,8).replace(/(\d{2})(?=\d)/g, '$1 ')" class="w-full bg-tryg-base border-transparent focus:border-tryg-accent focus:bg-white focus:ring-0 rounded-xl px-4 py-3 transition-colors text-tryg-text placeholder-gray-400">
                             </div>
                             <div>
                                 <label class="block text-xs font-bold text-tryg-secondary uppercase tracking-wider mb-2">Din e-mail *</label>
